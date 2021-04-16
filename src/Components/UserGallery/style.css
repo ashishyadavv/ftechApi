@@ -1,0 +1,32 @@
+.btn {
+  background-color: dodgerblue;
+  border-radius: 6px;
+  width: 100px;
+  height: 30px;
+  color: goldenrod;
+  cursor: pointer;
+  
+  margin-left: 1373px;
+  font-family: cursive;
+}
+.heading {
+  color: greenyellow;
+  font-family: cursive;
+  font-size: 100px;
+  padding: -30%;
+  margin-top: -30px;
+}
+
+.inner-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.inside {
+  background-color: grey;
+  height: 100px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  
+}
